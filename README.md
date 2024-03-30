@@ -1,13 +1,13 @@
 Full stack project - FTN informatika 
-*** Vinatija ***
+*** Vinarija ***
 
 Tehnologije:
 
-Backend- SpringBoot
+Backend - SpringBoot
 
-Frontend- React JS
+Frontend - React JS
 
-Za pokretanje frontend dela aplikacije- npm install
+Za pokretanje frontend dela aplikacije - npm install
 
 Login:
 
